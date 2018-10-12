@@ -1,5 +1,5 @@
 # Dodger Game
-A simple command line runner game, written in forth.
+A simple command line runner game, written in forth. The goal of the game is to dodge enemies, collect score and upgrades.
 
 <img src="screenshots/game_active.png" width="600px" />
 <img src="screenshots/game_paused.png" width="600px" />
