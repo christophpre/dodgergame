@@ -6,6 +6,9 @@ A simple command line runner game, written in forth.
 <img src="screenshots/game_over.png" width="600px" />
 
 # Usage
+
+Developed and tested with [**Gforth**](https://www.gnu.org/software/gforth) version **0.7.3**.
+
 ## Start
 ```bash
 gforth dodger.fs
